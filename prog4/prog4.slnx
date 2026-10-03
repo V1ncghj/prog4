@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="prog4.ApiService/prog4.ApiService.csproj" />
-  <Project Path="prog4.AppHost/prog4.AppHost.csproj" />
-  <Project Path="prog4.ServiceDefaults/prog4.ServiceDefaults.csproj" />
-  <Project Path="prog4.Web/prog4.Web.csproj" />
-</Solution>
